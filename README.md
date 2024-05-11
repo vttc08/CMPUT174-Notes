@@ -2,6 +2,20 @@
 
 This is a collection of notes from the course CMPUT 174. The notes are based on the lecture slides and my understanding of the course material. The notes are not meant to be a replacement for the course material but rather a supplement to help understand the material better.
 
+### Table of Contents
+- [Week 2](Week%2002%20Notes.md)
+- [Week 3](Week%2003%20Notes.md)
+- [Week 4](Week%2004%20Notes.md)
+- [Week 5](Week%2005%20Notes.md)
+- [Week 6](Week%2006%20Notes.md)
+- [Week 8](Week%2008%20Notes.md)
+- [Week 9](Week%2009%20Notes.md)
+- [Week 10](Week%2010%20Notes.md)
+- [Week 11](Week%2011%20Notes.md)
+- [Week 12](Week%2012%20Notes.md)
+- [Week 13](Week%2013%20Notes.md)
+
+
 ### FAQ
 - **What is in this repository?**
   - This repository contains notes from the course CMPUT 174. The repository do not contain information on any labs, assignments or exam solutions.
